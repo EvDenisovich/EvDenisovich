@@ -19,10 +19,10 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/EvDenisovich/Checklists.git)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Test-Suites and Test-Cases](https://github.com/EvDenisovich/Test-Suites-and-Test-Cases.git)
+- [Bug-Reports](https://github.com/EvDenisovich/Bug-Reports.git)
+- [SQL Queries](https://github.com/EvDenisovich/SQL-Queries.git)
+- [Postman Collections](https://github.com/EvDenisovich/Postman-Collections.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/ev.denisovich/)
